@@ -1,0 +1,34 @@
+Day seven(7)  2023.11.10 8:00-9:00
+Fegot take Iphone X
+
+Bookmarks
+jump to any where you want
+
+<p><a href="#C4">jupm to chapter4</a></p> //jump
+<h2 id="C4">Chapter 4<h2>  //定义
+
+
+<b> -Bold text
+<strong> -Important text
+<i> -italic text
+<em> -emphasizeed text
+<mark> -marked text
+
+<small> -smaller text
+<del> -deleted text
+<ins> -inserted text
+<sub> -ubscript text
+<sup> -superscript text
+
+
+They all need inside
+
+
+p{
+    background-image:url('Link.jpeg');
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+    background-size:cover
+}
+
+Background of P
